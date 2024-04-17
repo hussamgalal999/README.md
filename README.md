@@ -1,4 +1,4 @@
-# [Hossam Galal]'s GitHub Profile
+# Hossam Galal's GitHub Profile
 
 Welcome to my GitHub profile! Here you can find a collection of my projects, contributions, and more. 
 
